@@ -1,0 +1,9 @@
+
+ SCCSRCH.COM version 0.9 by GDX
+
+ SCCSRCH is a command for MSX to search SCC cartridges inserted in the MSX
+ cartridge slots.
+
+ Slot numbers are displayed in format P-S (P = primary slot, S = secondary slot)
+ 
+ The search is not mapper based. 
